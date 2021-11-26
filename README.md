@@ -4,7 +4,7 @@ Demo support ticket analysis dashboard, created from a subset of [this data](htt
 
 The data was:
 1. processed, reviewed and sampled using Excel
-2. imported to PostgreSQL using [DBeaver](https://dbeaver.io) 
+2. imported to Heroku's PostgreSQL using [DBeaver](https://dbeaver.io) 
 
 [This file](https://www.kaggle.com/vipulshinde/incident-response-log?select=Incident_response.txt) (from the original Kaggle repo) presents the details on all the fields available. 
 
